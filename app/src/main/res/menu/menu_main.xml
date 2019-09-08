@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/ic_tutorial"
+        android:title="Open WhatsApp"
+        android:icon="@drawable/tutorial"
+        app:showAsAction="always"
+
+        />
+
+    <item
+        android:id="@+id/ic_whatapp"
+        android:title="Open WhatsApp"
+
+        />
+    <item
+        android:id="@+id/ic_about"
+        android:title="About"
+
+        />
+</menu>

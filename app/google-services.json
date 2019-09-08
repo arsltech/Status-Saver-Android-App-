@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "863185803932",
+    "firebase_url": "https://status-saver-89108.firebaseio.com",
+    "project_id": "status-saver-89108",
+    "storage_bucket": "status-saver-89108.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863185803932:android:3bfb7cc184d3ed42",
+        "android_client_info": {
+          "package_name": "com.arsl.easystatussaver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863185803932-fvkakuntqm57po9hg5hnivqaseerjp3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANKxc26Gsw0qiuBIdNX1dwvP0xdmuUPI0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
